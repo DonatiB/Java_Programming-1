@@ -1,4 +1,4 @@
-###In this project I solve exercises using java and I learn basic programming sentences.
+###In this project I solve exercises using java and I learn basic programming sentences (procedural).
 
 
 - Practical 2: Variables and constants. Types.
